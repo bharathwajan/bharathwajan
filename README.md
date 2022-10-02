@@ -1,4 +1,8 @@
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<!-- ![MasterHead](https://d35fo82fjcw0y8.cloudfront.net/2016/07/03210503/data-science.png) -->
+<h1 align="center">Hi 👋, I'm Bharathwajan</h1>
+<h3 align="center">A passionate Data scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on Cortex N gray CFHE IIT hyderabad<br>👯 I’m looking to collaborate on Deep learning based NLP projects<br>🌱 I’m currently learning GNN<br>💬 Ask me about Deep learning<br>⚡ Fun fact : The first computer “bug” was an actual real-life bug
 
