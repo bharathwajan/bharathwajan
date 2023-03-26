@@ -4,7 +4,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 ## 💫 About Me:
-🔭 I’m currently working on Cortex N gray CFHE IIT hyderabad<br>👯 I’m looking to collaborate on Deep learning based NLP projects<br>🌱 I’m currently learning GNN<br>💬 Ask me about Deep learning<br>⚡ Fun fact : The first computer “bug” was an actual real-life bug
+🔭 I’m currently working as an AI engineer in SunTec<br>👯 I’m looking to collaborate on Deep learning based NLP projects<br>🌱 I’m currently learning GNN<br>💬 Ask me about Deep learning<br>⚡ Fun fact : The first computer “bug” was an actual real-life bug
 
 
 ## 🌐 Socials:
