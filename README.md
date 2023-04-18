@@ -6,15 +6,15 @@
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=bharathwajan&color=green" />
   <td>
-    <a href="https://poll.fizzy.wtf/vote?bharathwajan.vote=yes&redirect=https://github.com/duyet">
+    <a href="https://poll.fizzy.wtf/vote?bharathwajan.vote=yes&redirect=https://github.com/bharathwajan">
         Just like 👍
     </a>
   </td>
   <td>
-    <img src="https://poll.fizzy.wtf/show?duyet.vote=yes" />
+    <img src="https://poll.fizzy.wtf/show?bharathwajan.vote=yes" />
   </td>
   <td>
-    <img src="https://poll.fizzy.wtf/count?duyet.vote=yes" />
+    <img src="https://poll.fizzy.wtf/count?bharathwajan.vote=yes" />
   </td>
 </div>
 
