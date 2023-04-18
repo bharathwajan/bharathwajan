@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Bharathwajan Rajendran</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=bharathwajan&color=green) -->
+<img src="https://komarev.com/ghpvc/?username=bharathwajan&color=green" />
 
 ## 💫 About Me:
 🔭 I’m currently working as an AI engineer in SunTec<br>👯 I’m looking to collaborate on Deep learning based NLP projects<br>🌱 I’m currently learning GNN<br>💬 Ask me about Deep learning<br>⚡ Fun fact : The first computer “bug” was an actual real-life bug
