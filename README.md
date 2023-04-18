@@ -3,19 +3,32 @@
 <h3 align="center">A passionate Data scientist from India</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <!-- ![](https://komarev.com/ghpvc/?username=bharathwajan&color=green) -->
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=bharathwajan&color=green" />
-  <td>
-    <a href="https://poll.fizzy.wtf/vote?bharathwajan.vote=yes&redirect=https://github.com/bharathwajan">
-        Just like 👍
-    </a>
-  </td>
-  <td>
-    <img src="https://poll.fizzy.wtf/show?bharathwajan.vote=yes" />
-  </td>
-  <td>
-    <img src="https://poll.fizzy.wtf/count?bharathwajan.vote=yes" />
-  </td>
+
+
+
+<div align="center">
+
+  <p>
+    <table>
+      <tr>
+        <td>
+           <img src="https://komarev.com/ghpvc/?username=bharathwajan&color=green" />
+        </td>
+        <td>
+          <a href="https://poll.fizzy.wtf/vote?bharathwajan.vote=yes&redirect=https://github.com/bharathwajan">
+            Just like 👍
+          </a>
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/show?bharathwajan.vote=yes" />
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/count?bharathwajan.vote=yes" />
+        </td>
+      </tr>
+    </table>
+  </p>
+  
 </div>
 
 ## 💫 About Me:
